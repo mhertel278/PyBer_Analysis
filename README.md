@@ -8,7 +8,7 @@ A ride sharing company has collected data on all rides it provided over the cour
 
 ### Yearly Totals and Averages for each city
 
-I created a dataframe organized by the three different types of cities served by the company--urban, suburban, and rural.  
+The following table shows the differences in totals of rides, drivers, and fares for each city:
 
 ![dataframe](Resources/Pyber_summary_data.png)
 
