@@ -12,7 +12,7 @@ The following table shows the differences in totals of rides, drivers, and fares
 
 ![dataframe](Resources/Pyber_summary_data.png)
 
-Urban cities accounted for the vast majority of rides, as well as the majority of the total fare dollars.  However, urban cities also employed far more drivers than actual rides that took place, meaning the average fare per driver is significantly lower than in the suburban and rural cities.  
+Urban cities accounted for the vast majority of rides, as well as the majority of the total fare dollars.  However, urban cities also employed the most drivers--far more drivers than actual rides that took place in fact, meaning the average fare per driver is significantly lower than in the suburban and rural cities.  
 
 Suburban and especially Rural areas had much higher average fares per ride as well.  This is likely due to those areas being more spread out than tightly packed cities, resulting in longer rides.  
 
