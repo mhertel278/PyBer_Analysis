@@ -12,10 +12,11 @@ The following table shows the differences in totals of rides, drivers, and fares
 
 ![dataframe](Resources/Pyber_summary_data.png)
 
-From this dataframe we can see that urban cities accounted for the vast majority of rides, as well as the majority of the total fare dollars.  However, urban cities also employed far more drivers than actual rides that took place, meaning the average fare per driver is significantly lower than in the suburban and rural cities.  
+Urban cities accounted for the vast majority of rides, as well as the majority of the total fare dollars.  However, urban cities also employed far more drivers than actual rides that took place, meaning the average fare per driver is significantly lower than in the suburban and rural cities.  
 
-Suburban and especially Rural areas had much higher average fares per ride as well.  This is likely due to those areas being more spread out than in tightly packed cities, resulting in longer rides.  
-So while urban cities account for the majority of gross dollars for the company, suburban and rural rides were far more profitable.
+Suburban and especially Rural areas had much higher average fares per ride as well.  This is likely due to those areas being more spread out than tightly packed cities, resulting in longer rides.  
+
+So while urban cities account for the majority of gross dollars for the company, the profit from each ride in rural and suburban areas was higher.
 
 ### Fares by week for each city
 
@@ -30,14 +31,10 @@ However, the fare totals for weeks in January are much lower for urban areas tha
 
 In summary, while rides in urban areas supply the ride-sharing company the highes gross revenue, the low average fares per ride and per driver make each ride much less profitable than rides in rural and suburban areas.  I would make the following recommendations to the company to enhance the profitability of their business:
 
-- Continue to expand to more urban and suburban areas.
-    While each ride provides less revenue in urban areas than in rural areas, continuing to service more urban and suburban areas where demand for rides is higher will continue to result in more gross revenue
+- Continue to expand to more urban and suburban areas.  While each ride provides less revenue in urban areas than in rural areas, continuing to service more urban and suburban areas where demand for rides is higher will continue to result in more gross revenue.
 
-- Employ fewer drivers per urban city
-    To increase the profitability of the business in urban areas, the company should cut the number of drivers it employs in each city throughout the year.
+- Employ fewer drivers per urban city. To increase the profitability of the business in urban areas, the company should cut the number of drivers it employs in each city throughout the year.
 
-- Employ fewer urban drivers in January
-    Because of the reduced revenue from rides in January in urban areas, the company should employ fewer urban drivers in January, then begin to hire more drivers in later months with higher demand.
+- Employ fewer urban drivers in January.  Because of the reduced revenue from rides in January in urban areas, the company should employ fewer urban drivers in January, then begin to hire more drivers in later months when demand is higher.
 
-- Raise fare rates in urban areas.
-    Because the demand for rides in urban areas is so much higher, but the length of each ride is much shorter, the company could charge a higher rate in urban areas to generate more revenue from each ride.
+- Raise fare rates in urban areas.  Because the demand for rides in urban areas is so much higher, but the length of each ride is much shorter, the company could charge a higher rate in urban areas to generate more revenue from each ride.
